@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kaspi_catalog date="2025-11-02" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
-  <company>30035347</company>
-  <merchantid>30035347</merchantid>
+  <company>CompanyName</company>
+  <merchantid>CompanyID</merchantid>
   <offers>
     <offer sku="676692754">
       <model>Цепь 510451411 Бронницкий ювелир вес 3.9 длина 55 плетение якорное</model>
@@ -20,7 +20,7 @@
         <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="511010000">255000</cityprice>
+        <cityprice cityId="511010000">260000</cityprice>
       </cityprices>
     </offer>
     <offer sku="874418639">
@@ -28,9 +28,10 @@
       <brand>kubaci</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="511010000">455555</cityprice>
+        <cityprice cityId="511010000">456000</cityprice>
       </cityprices>
     </offer>
     <offer sku="783609951">
@@ -38,9 +39,10 @@
       <brand>trimiata</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="511010000">329999</cityprice>
+        <cityprice cityId="511010000">331000</cityprice>
       </cityprices>
     </offer>
     <offer sku="687104701">
@@ -48,6 +50,7 @@
       <brand>trimiata</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">349500</cityprice>
@@ -58,6 +61,7 @@
       <brand>trimiata</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">455555</cityprice>
@@ -68,6 +72,7 @@
       <brand>kubaci</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">435000</cityprice>
@@ -78,6 +83,7 @@
       <brand>trimiata</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">189500</cityprice>
@@ -88,6 +94,7 @@
       <brand>trimiata</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">89999</cityprice>
@@ -98,6 +105,7 @@
       <brand>trimiata</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">315555</cityprice>
@@ -108,6 +116,7 @@
       <brand>trimiata</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">218500</cityprice>
@@ -118,6 +127,7 @@
       <brand>kubaci</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">955554</cityprice>
@@ -128,6 +138,7 @@
       <brand>kubaci</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">429499</cityprice>
@@ -138,6 +149,7 @@
       <brand>trimiata</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">487500</cityprice>
@@ -148,6 +160,7 @@
       <brand>trimiata</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">139500</cityprice>
@@ -158,6 +171,7 @@
       <brand>trimiata</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">199999</cityprice>
@@ -168,6 +182,7 @@
       <brand>trimiata</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">305500</cityprice>
@@ -178,6 +193,7 @@
       <brand>trimiata</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">118200</cityprice>
@@ -188,6 +204,7 @@
       <brand>trimiata</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">110000</cityprice>
@@ -198,6 +215,7 @@
       <brand>trimiata</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">325555</cityprice>
@@ -208,6 +226,7 @@
       <brand>trimiata</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">246500</cityprice>
@@ -218,6 +237,7 @@
       <brand>trimiata</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">228500</cityprice>
@@ -228,6 +248,7 @@
       <brand>trimiata</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">198500</cityprice>
@@ -238,6 +259,7 @@
       <brand>zoloto-rossii-</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">225555</cityprice>
