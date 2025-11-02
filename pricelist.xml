@@ -479,6 +479,8 @@
       <model>SEVERIKA 711085 размер 17.0 кольцо вес 1.96 г золото, бриллиант</model>
       <brand>Без бренда</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">389999</cityprice>
@@ -848,6 +850,8 @@
       <model>Кольцо Severika 91116 вес 2.15 ,желтое золото, бриллиант , размер 17</model>
       <brand>Без бренда</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">580000</cityprice>
@@ -1077,6 +1081,7 @@
       <model>Кольцо 4433 Senat вес 2.05 размер 15.5 вставка фианит</model>
       <brand>senat</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">185000</cityprice>
@@ -1716,6 +1721,8 @@
       <model>Кубачи 989С вес 8.06 17 золото, бриллиант</model>
       <brand>Без бренда</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">950000</cityprice>
@@ -2215,6 +2222,8 @@
       <model>Золото России 30035347_836305351 вес 7.18 г 17 золото, бриллиант, сапфир</model>
       <brand></brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">899990</cityprice>
@@ -2694,6 +2703,9 @@
       <model>Подвеска Санис 11-315132 вес 0.27 г золото, фианит</model>
       <brand>Санис</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">45000</cityprice>
@@ -3033,6 +3045,8 @@
       <model>Комплект  11756 Кубачи вес 10.75 размер 18 вставка бриллиант</model>
       <brand>kubaci</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">1385000</cityprice>
@@ -3052,6 +3066,8 @@
       <model>Подвеска 1547 Кубачи вес 5.49 вставка бриллиант</model>
       <brand>kubaci</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">999999</cityprice>
@@ -3101,6 +3117,8 @@
       <model>Кольцо 1809 Бриллианты России вес 1.54 размер 17 вставка бриллиант</model>
       <brand>brillianty-rossii</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">189999</cityprice>
@@ -3140,6 +3158,8 @@
       <model>Кольцо 0732 Юверест вес 2.6 размер 17 вставка бриллиант</model>
       <brand>uverest</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">235500</cityprice>
@@ -3179,6 +3199,8 @@
       <model>Кольцо 3012 Бриллианты России вес 2.41 размер 18 вставка бриллианты, сапфир</model>
       <brand>Бриллианты России</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
         <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
@@ -3519,6 +3541,8 @@
       <model>Комплект 921030 Severika вес 4.25 размер 16 вставка бриллиант</model>
       <brand>severika</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">1073000</cityprice>
@@ -3558,6 +3582,8 @@
       <model>Комплект 31745 Кубачи вес 5.59 размер 17.5 вставка бриллиант</model>
       <brand>kubaci</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">755555</cityprice>
@@ -3837,6 +3863,8 @@
       <model>Комплект 2030 Кубачи вес 5.36 размер 16 вставка бриллиант</model>
       <brand>kubaci</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">1149999</cityprice>
@@ -3856,6 +3884,8 @@
       <model>Кольцо 0269 Юверест вес 2.34 размер 18.5 вставка бриллиант</model>
       <brand>uverest</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">239999</cityprice>
@@ -3875,6 +3905,8 @@
       <model>Кольцо 222 Mitario Gold вес 3.66 размер 17 вставка бриллиант</model>
       <brand>mitario-gold</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">484000</cityprice>
@@ -3884,6 +3916,8 @@
       <model>Кольцо 26715 Бриллианты России вес 2.81 размер 16.25 вставка бриллиант</model>
       <brand>Бриллианты России</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
         <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
@@ -3894,6 +3928,8 @@
       <model>Серьги 31930 Кубачи вес 2.07 вставка бриллиант</model>
       <brand>kubaci</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">399000</cityprice>
@@ -3933,6 +3969,8 @@
       <model>Комплект 1381 Mitario Gold вес 7.62 размер 17 вставка бриллиант</model>
       <brand>mitario-gold</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">910000</cityprice>
@@ -4402,6 +4440,8 @@
       <model>Пусеты Severika 931120  вес 1.71 вставка бриллиант</model>
       <brand>severika</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">525555</cityprice>
@@ -4431,6 +4471,8 @@
       <model>Колье 382 Юниголд вес 1.61 длина 40 см вставка бриллиант</model>
       <brand>unigold</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">555555</cityprice>
@@ -4540,6 +4582,8 @@
       <model>Серьги 721162 Severika вес 2.94 вставка бриллиант</model>
       <brand>severika</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">765555</cityprice>
@@ -4549,6 +4593,9 @@
       <model>Серьги 056 Бриллианты России вес 2.95 вставка бриллиант</model>
       <brand>Бриллианты России</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">320000</cityprice>
@@ -4898,6 +4945,8 @@
       <model>Комплект 911162 Severika вес 5.05 размер 17 вставка бриллиант</model>
       <brand>severika</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">1388500</cityprice>
@@ -4937,6 +4986,9 @@
       <model>Кольцо 22892 Бриллианты России вес 2.68 размер 16.5 вставка бриллиант</model>
       <brand>Бриллианты России</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">380000</cityprice>
@@ -4946,6 +4998,8 @@
       <model>Комплект 721127 Severika вес 3.3 вставка бриллиант</model>
       <brand>severika</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">763333</cityprice>
@@ -4965,6 +5019,8 @@
       <model>Кольцо 711030 Severika вес 1.76 размер 17.5 вставка бриллиант</model>
       <brand>severika</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">535000</cityprice>
@@ -4994,6 +5050,8 @@
       <model>Комплект 1052 Brilliant вес 14.16 размер 18.5 вставка бриллиант</model>
       <brand>brilliant</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">1950000</cityprice>
@@ -5143,6 +5201,9 @@
       <model>Кольцо 1142 Бриллианты России вес 4.36 размер 17 вставка бриллиант</model>
       <brand>Бриллианты России</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">490000</cityprice>
@@ -5452,6 +5513,8 @@
       <model>Подвеска 1653  Кубачи вес 1.25 вставка бриллиант</model>
       <brand>kubaci</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">510000</cityprice>
@@ -5481,6 +5544,8 @@
       <model>Кольцо 018 Юверест вес 2.12 размер 16.5 вставка бриллиант</model>
       <brand>uverest</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">285000</cityprice>
@@ -5540,6 +5605,8 @@
       <model>Кольцо 911127  Severika вес 1.04 размер 17 вставка бриллиант</model>
       <brand>severika</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">295999</cityprice>
@@ -7439,6 +7506,8 @@
       <model>Серьги SUNLIGHT 0490-с5н-02 вес 2.54 г золото, бриллиант</model>
       <brand>Без бренда</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">651500</cityprice>
@@ -7788,6 +7857,8 @@
       <model>Подвеска Санис 4223-1 вес 0.96 г золото, фианит</model>
       <brand>sanis</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">75555</cityprice>
@@ -7877,6 +7948,8 @@
       <model>SEVERIKA 911073 размер 17.5 вес 2.58 г золото, бриллиант</model>
       <brand>severika</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">495000</cityprice>
@@ -8036,6 +8109,8 @@
       <model>Ювелиры России 51045141145 длина 45 см, вес 3.28 г золото, плетение якорное</model>
       <brand>uveliry-rossii</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">205000</cityprice>
@@ -8065,6 +8140,9 @@
       <model>SEVERIKA 711036 размер 16 кольцо вес 1.76 г золото, бриллиант</model>
       <brand>SEVERIKA</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">280000</cityprice>
@@ -10004,6 +10082,8 @@
       <model>Комплект 6590  Brilliant вес 9.31 размер 18 вставка бриллиант</model>
       <brand>brilliant</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">1485000</cityprice>
@@ -10063,6 +10143,8 @@
       <model>SEVERIKA 911126 размер 18.5 вес 2.93 г золото, бриллиант</model>
       <brand>severika</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">566998</cityprice>
@@ -10112,6 +10194,8 @@
       <model>Комплект 911073 Severika вес 4.97 размер 17.5 вставка бриллиант</model>
       <brand>severika</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">949999</cityprice>
@@ -11411,6 +11495,7 @@
       <model>Комплект 1308 Italy gold вес 7.18 размер 18 вставки бриллиант</model>
       <brand>italy-gold</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">799999</cityprice>
