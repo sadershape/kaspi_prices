@@ -580,7 +580,7 @@
       <model>Браслет 01132641 Тримиата вес 1.69  размер 17.5 вставка фианит</model>
       <brand>trimiata</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">164222</cityprice>
@@ -8455,7 +8455,7 @@
         <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="511010000">449500</cityprice>
+        <cityprice cityId="511010000">528500</cityprice>
       </cityprices>
     </offer>
     <offer sku="104763100_402276357">
@@ -9859,13 +9859,13 @@
       </cityprices>
     </offer>
     <offer sku="829829619">
-      <model></model>
+      <model>Кварцевые НИКА желтое золото, серебро</model>
       <brand>nika-ru</brand>
       <availabilities>
         <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="511010000">425000</cityprice>
+        <cityprice cityId="511010000">528500</cityprice>
       </cityprices>
     </offer>
     <offer sku="411628942">
@@ -10106,7 +10106,7 @@
         <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="511010000">449500</cityprice>
+        <cityprice cityId="511010000">528500</cityprice>
       </cityprices>
     </offer>
     <offer sku="112321621_125877">
@@ -10665,7 +10665,7 @@
       <model>Браслет 051501 Тримиата вес 1.22 размер 18  без вставок</model>
       <brand>trimiata</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">119500</cityprice>
@@ -11284,7 +11284,7 @@
       <model>Пусеты 729084 Тримиата вес 2.51 вставка оникс</model>
       <brand>trimiata</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">225555</cityprice>
