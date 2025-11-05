@@ -3752,7 +3752,6 @@
       <model>Подвеска 5313021801 Золото России вес 1.21 без вставок</model>
       <brand>zoloto-rossii-</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">85555</cityprice>
@@ -6933,7 +6932,6 @@
       <model>Цепь 5810 Золото России вес 1.51 плетение якорное</model>
       <brand>zoloto-rossii-</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">129999</cityprice>
@@ -9688,7 +9686,6 @@
       <model>Кольцо 2801 Ярко вес 4.65 размер 21.5 без вставок</model>
       <brand>arko-jewelry</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">369999</cityprice>
