@@ -3967,7 +3967,6 @@
       <model>Комплект 1381 Mitario Gold вес 7.62 размер 17 вставка бриллиант</model>
       <brand>mitario-gold</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">910000</cityprice>
