@@ -4547,7 +4547,6 @@
       <model>Кольцо 4014 Кубачи вес 5.2 размер 17.5 вставка бриллиант</model>
       <brand>kubaci</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">385000</cityprice>
@@ -9212,7 +9211,6 @@
       <model>Кольцо 5555 Diamond вес 1.19 размер 18 вставка циркон</model>
       <brand>diamond1</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">99999</cityprice>
