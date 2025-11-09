@@ -258,8 +258,6 @@
       <model>Колье 3040 Золото России вес 2.38 длина 40 см вставка фианит</model>
       <brand>zoloto-rossii-</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">225555</cityprice>
@@ -269,6 +267,7 @@
       <model>Цепь 51080140950 Бронницкий ювелир вес 9.83 длина 50 плетение якорное</model>
       <brand>bronnickij-uvelir</brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">768500</cityprice>
@@ -6341,7 +6340,6 @@
       <model>Браслет 1241 Кубачи вес 14 размер 18 без вставок</model>
       <brand>kubaci</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">1068500</cityprice>
@@ -6351,7 +6349,6 @@
       <model>Цепь  51045141145 Бронницкий ювелир вес 3.06 длина 45 плетение якорное </model>
       <brand>bronnickij-uvelir</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">239999</cityprice>
@@ -8836,7 +8833,6 @@
       <model>Цепь 10110030 Karatov вес 0.92 плетение якорное без вставок</model>
       <brand>karatov</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">78555</cityprice>
@@ -11353,7 +11349,6 @@
       <model>Цепь 51045141160 Бронницкий ювелир вес 4.21 длина 60 плетение якорное</model>
       <brand>bronnickij-uvelir</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">349500</cityprice>
