@@ -10020,7 +10020,6 @@
       <model>Подвеска 902 Karatov вес 1.45 вставка фианит</model>
       <brand>karatov</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">139500</cityprice>
