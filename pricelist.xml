@@ -267,7 +267,6 @@
       <model>Цепь 51080140950 Бронницкий ювелир вес 9.83 длина 50 плетение якорное</model>
       <brand>bronnickij-uvelir</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">768500</cityprice>
