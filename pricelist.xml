@@ -4434,8 +4434,6 @@
       <model>Пусеты Severika 931120  вес 1.71 вставка бриллиант</model>
       <brand>severika</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP2" preOrder="0" stockCount="1.0"/>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">525555</cityprice>
@@ -11270,7 +11268,6 @@
       <model>Цепь 050 Золото России вес 3.32 длина 50 см плетение сингапур</model>
       <brand>zoloto-rossii-</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">299999</cityprice>
@@ -11369,7 +11366,6 @@
       <model>Цепь 8030208 Золото России вес 1.76 длина 50 см плетение якорное</model>
       <brand>zoloto-rossii-</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">159500</cityprice>
