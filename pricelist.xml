@@ -7816,7 +7816,6 @@
       <model>Серьги Амурский ювелирный завод 43308 вес 2.64 г золото, фианит</model>
       <brand>amurskij-uvelirnyj-zavod</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">248500</cityprice>
@@ -9578,7 +9577,6 @@
       <model>Браслет 0028 Золото России вес 10.22 размер 23 без вставок</model>
       <brand>zoloto-rossii-</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">910000</cityprice>
@@ -11383,7 +11381,6 @@
       <model>Цепь 8040208 Золото России вес 2.51 длина 40 см плетение якорное</model>
       <brand>zoloto-rossii-</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">235555</cityprice>
