@@ -11536,5 +11536,15 @@
         <cityprice cityId="511010000">3800</cityprice>
       </cityprices>
     </offer>
+    <offer sku="132019704_311236731">
+      <model>Колье Rosato RZC055 длина 45 см вес 3.4 г серебро, фианит</model>
+      <brand></brand>
+      <availabilities>
+        <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="511010000">35000</cityprice>
+      </cityprices>
+    </offer>
   </offers>
 </kaspi_catalog>
