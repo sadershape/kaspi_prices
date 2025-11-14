@@ -11526,5 +11526,15 @@
         <cityprice cityId="511010000">3000</cityprice>
       </cityprices>
     </offer>
+    <offer sku="137555660_718184546">
+      <model>Victoria набор пиал 1385-2 200 мл, керамика, 2 шт</model>
+      <brand></brand>
+      <availabilities>
+        <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="511010000">3800</cityprice>
+      </cityprices>
+    </offer>
   </offers>
 </kaspi_catalog>
