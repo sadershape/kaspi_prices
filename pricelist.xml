@@ -11500,9 +11500,30 @@
       <model>Декоративный светильник Ночник Луна , металл, акрил</model>
       <brand></brand>
       <availabilities>
+        <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">3999</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="998684249">
+      <model>Конфетница Gold SJ1200M прямоугольная 1 шт, золотистый</model>
+      <brand></brand>
+      <availabilities>
+        <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="511010000">4999</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="718406344">
+      <model>Носки COCO&amp;HANA 15605 2 пар мультиколор , размер 36-41</model>
+      <brand></brand>
+      <availabilities>
+        <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="511010000">3000</cityprice>
       </cityprices>
     </offer>
   </offers>
