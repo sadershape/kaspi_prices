@@ -11496,5 +11496,14 @@
         <cityprice cityId="511010000">129999</cityprice>
       </cityprices>
     </offer>
+    <offer sku="69436506">
+      <model>Декоративный светильник Ночник Луна , металл, акрил</model>
+      <brand></brand>
+      <availabilities>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="511010000">3999</cityprice>
+      </cityprices>
+    </offer>
   </offers>
 </kaspi_catalog>
