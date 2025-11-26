@@ -192,8 +192,6 @@
       <model>Браслет 40015408 Тримиата вес 1.25 размер 16 без вставок</model>
       <brand>trimiata</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP3" preOrder="0" stockCount="1.0"/>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">118200</cityprice>
@@ -2668,7 +2666,6 @@
       <model>Серьги Санис 18-208383 вес 4.17 г золото, без вставок</model>
       <brand>sanis</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">336666</cityprice>
@@ -4029,7 +4026,6 @@
       <model>Кольцо 22206 Бриллианты России вес 3.46 размер 18 вставка бриллиант</model>
       <brand>brillianty-rossii</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">369999</cityprice>
@@ -8959,7 +8955,6 @@
       <model>Комплект 220  Кубачи вес 8.82  размер 18 вставка бриллиант</model>
       <brand>kubaci</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">5000000</cityprice>
@@ -9942,7 +9937,6 @@
       <model>Кольцо 11501 Кубачи вес 2.26 размер 16.5 вставка фианит</model>
       <brand>kubaci</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">210000</cityprice>
