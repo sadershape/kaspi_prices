@@ -2340,7 +2340,6 @@
       <model>Золото России к572 размер 18.5 вес 5.74 г золото, без вставок</model>
       <brand>zoloto-rossii-</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">445555</cityprice>
@@ -7848,7 +7847,6 @@
       <model>Кольцо Кубачи 491645 размер 16 вес 4.51 г золото, циркон</model>
       <brand>kubaci</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">399999</cityprice>
@@ -9210,7 +9208,6 @@
       <model>Комплект 1673 Gold Branch вес 10.5 размер 19.5 вставка бриллиант</model>
       <brand>gold-branch</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">1250000</cityprice>
@@ -9459,7 +9456,6 @@
       <model>Серьги 2083503 Золото России вес 1.47 вставка фианит</model>
       <brand>zoloto-rossii-</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">129999</cityprice>
