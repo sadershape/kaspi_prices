@@ -2360,7 +2360,6 @@
       <model>Кубачи 1241 длина 18 см, вес 14 г золото, плетение отсутствует</model>
       <brand>kubaci</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">1119999</cityprice>
@@ -10288,7 +10287,6 @@
       <model>Подвеска 035379 Золото России вес 1.4 вставка ситалл</model>
       <brand>zoloto-rossii-</brand>
       <availabilities>
-        <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="511010000">139999</cityprice>
