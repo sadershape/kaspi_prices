@@ -3803,7 +3803,7 @@
         <availability available="yes" storeId="30035347_PP4" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="511010000">443500</cityprice>
+        <cityprice cityId="511010000">367000</cityprice>
       </cityprices>
     </offer>
     <offer sku="935941109">
